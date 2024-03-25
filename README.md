@@ -5,7 +5,7 @@
 A tool used to download all of the links from this sheet:  
 https://docs.google.com/spreadsheets/d/1gM4-rRghgRUBr2cgWNsh-nawlUuh43guAM63dYVTdt8/htmlview#
 
-Although this could have been done manually, I thought I may as well create a bot to do it because auto-downloading 400 links from a google sheet seems like the kind of thing I was destined to do, and destined to do more than once. I will probably make this into a more general purpose tool in the future.
+Although this could have been done manually, I thought I may as well create a bot to do it because auto-downloading 400 links from a google sheet is the perfect use case for a Python script
 
 ## Usage
 
